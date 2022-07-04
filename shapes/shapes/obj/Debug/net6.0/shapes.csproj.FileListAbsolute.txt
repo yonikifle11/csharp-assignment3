@@ -1,0 +1,15 @@
+C:\Users\MIMI\source\repos\shapes\shapes\bin\Debug\net6.0\shapes.exe
+C:\Users\MIMI\source\repos\shapes\shapes\bin\Debug\net6.0\shapes.deps.json
+C:\Users\MIMI\source\repos\shapes\shapes\bin\Debug\net6.0\shapes.runtimeconfig.json
+C:\Users\MIMI\source\repos\shapes\shapes\bin\Debug\net6.0\shapes.dll
+C:\Users\MIMI\source\repos\shapes\shapes\bin\Debug\net6.0\shapes.pdb
+C:\Users\MIMI\source\repos\shapes\shapes\obj\Debug\net6.0\shapes.csproj.AssemblyReference.cache
+C:\Users\MIMI\source\repos\shapes\shapes\obj\Debug\net6.0\shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIMI\source\repos\shapes\shapes\obj\Debug\net6.0\shapes.AssemblyInfoInputs.cache
+C:\Users\MIMI\source\repos\shapes\shapes\obj\Debug\net6.0\shapes.AssemblyInfo.cs
+C:\Users\MIMI\source\repos\shapes\shapes\obj\Debug\net6.0\shapes.csproj.CoreCompileInputs.cache
+C:\Users\MIMI\source\repos\shapes\shapes\obj\Debug\net6.0\shapes.dll
+C:\Users\MIMI\source\repos\shapes\shapes\obj\Debug\net6.0\refint\shapes.dll
+C:\Users\MIMI\source\repos\shapes\shapes\obj\Debug\net6.0\shapes.pdb
+C:\Users\MIMI\source\repos\shapes\shapes\obj\Debug\net6.0\shapes.genruntimeconfig.cache
+C:\Users\MIMI\source\repos\shapes\shapes\obj\Debug\net6.0\ref\shapes.dll
